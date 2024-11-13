@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "802472168185",
+    "firebase_url": "https://publickey-encryption-default-rtdb.firebaseio.com",
+    "project_id": "publickey-encryption",
+    "storage_bucket": "publickey-encryption.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802472168185:android:a2398663a2bdb214a17028",
+        "android_client_info": {
+          "package_name": "com.lfvp.publickeyappdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5qc4JcXejSFlsnhL7ufo4UbGt4brReyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
