@@ -2,13 +2,13 @@
 agp = "8.6.1"
 
 kotlin = "2.0.20"
-coreKtx = "1.13.1"
+coreKtx = "1.15.0"
 junit = "4.13.2"
 junitVersion = "1.2.1"
 espressoCore = "3.6.1"
-lifecycleRuntimeKtx = "2.8.6"
-activityCompose = "1.9.2"
-composeBom = "2024.09.03"
+lifecycleRuntimeKtx = "2.8.7"
+activityCompose = "1.9.3"
+composeBom = "2024.12.01"
 
 hiltPlugin = "2.48.1"
 hiltAndroid = "2.49"
@@ -17,10 +17,10 @@ hiltNavigation = "1.2.0"
 kspVersion = "2.0.20-1.0.25"
 
 
-navVersion = "2.8.2"
+navVersion = "2.8.5"
 kotlinSerializationJsonVersion="1.7.3"
 
-firebaseBom="33.4.0"
+firebaseBom="33.7.0"
 googleServicesVersion="4.4.2"
 splashVersion="1.0.1"
 
